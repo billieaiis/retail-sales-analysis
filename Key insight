@@ -1,0 +1,39 @@
+Key Insights
+
+1. Overall Sales Performance
+   
+   - The dataset recorded total sales of $8,057,463.08 across 276,484 baskets and 2,500 households.
+   - A total of 260,685,622 units were recorded across 711 observation days.
+
+2. Sales by Department
+   
+   - The Grocery department generated the highest sales, contributing $4.09 million (50.81%) of total sales.
+   - Drug GM and Produce followed with contributions of 13.10% and 6.92%, respectively.
+
+3. Product Performance
+   
+   - Product 1029743 (Fluid Milk White Only) was the highest-selling grocery product, generating $41,072.06 in sales.
+   - Six of the ten highest-selling grocery products belonged to the Fluid Milk Products category, indicating strong sales contribution from milk products.
+
+4. Category Performance
+   
+   - Soft Drinks was the top grocery category, generating $327,647.30, equivalent to 8.00% of grocery sales.
+   - Fluid Milk Products reached the highest household penetration among the top ten categories, appearing in purchases from 2,421 households.
+
+5. Sales by Time
+   
+   - Week 92 recorded the highest weekly sales at $113,192.87.
+   - Transactions at 5:00 PM generated the highest hourly sales, reaching $828,978.16.
+   - Sales activity was relatively strong between 4:00 PM and 7:00 PM.
+
+6. Store Performance
+   
+   - Store 367 recorded the highest sales among all stores, generating $267,614.34, or 3.32% of total sales.
+   - The ten highest-performing stores collectively contributed 17.40% of total sales.
+
+Business Implications
+
+- Prioritize inventory availability for high-performing grocery products, particularly fluid milk products and soft drinks.
+- Review staffing and operational readiness during peak transaction hours, especially between 4:00 PM and 7:00 PM.
+- Evaluate the strategies used by high-performing stores to identify practices that may be applicable to other locations.
+- Monitor weekly sales trends to identify periods of stronger and weaker sales performance.
